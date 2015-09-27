@@ -1,2 +1,0 @@
-module PersonenHelper
-end
